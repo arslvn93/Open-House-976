@@ -116,10 +116,11 @@ const config = {
     }
   ],
   "deploymentInfo": {
-    "repoName": "Open-House-10 Morrison St",
-    "repoUrl": null,
+    "repoId": "1077787838",
+    "repoName": "Open-House-976",
+    "repoUrl": "https://github.com/arslvn93/Open-House-976",
     "tag": "Open House 10 Morrison St",
     "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/723v7Nh8JC60wCn3aRmV",
-    "siteId": "dc35cadf-51e9-4ca8-843c-a084dd57add1"
+    "siteId": "01c72d5c-708c-4a5d-ab72-686eb086fa80"
   }
 };
