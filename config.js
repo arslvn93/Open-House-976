@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "10 Morrison St",
     "city": "Toronto",
     "cityStateZip": "Toronto, ON M5V2T8",
-    "heroSubtitle": "Experience luxury living in this spacious 3-bedroom Condo Apartment. Boasting 2 bathrooms and 1800 sq ft of meticulously designed space. asd",
+    "heroSubtitle": "Experience the epitome of modern living in this extraordinary 3-bedroom, 2-bathroom Condo Apartment. Spanning an impressive 1800 sq ft, this meticulously crafted home offers a perfect blend of style, comfort, and functionality. Every corner has been designed with precision, creating a space that not only meets but exceeds the expectations of discerning homeowners. Discover a residence that seamlessly combines sophisticated design with practical living, where every detail tells a story of quality and thoughtful construction.",
     "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760638245110-2912-80 John St-24.jpg"
   },
   "realtor": {
