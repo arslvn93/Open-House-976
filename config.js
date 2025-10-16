@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "10 Morrison St",
     "city": "Toronto",
     "cityStateZip": "Toronto, ON M5V2T8",
-    "heroSubtitle": "asd",
+    "heroSubtitle": "Experience luxury living in this spacious 3-bedroom Condo Apartment. Boasting 2 bathrooms and 1800 sq ft of meticulously designed space. asd",
     "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760638245110-2912-80 John St-24.jpg"
   },
   "realtor": {
